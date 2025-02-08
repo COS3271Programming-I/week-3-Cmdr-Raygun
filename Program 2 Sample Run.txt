@@ -1,0 +1,9 @@
+Welcome! This program takes two user-input binary numbers and performs various operations on them, printing the results to the
+console.
+
+Please enter a value for variable X (in binary form): 10
+Please enter a value for variable Y (in binary form): 1000100
+X + Y = 1000110
+X - Y = 11111111111111111111111110111110
+X × Y = 10001000
+X ÷ Y = 0

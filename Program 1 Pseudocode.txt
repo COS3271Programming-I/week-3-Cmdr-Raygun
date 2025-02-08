@@ -1,0 +1,11 @@
+# Program 1: Basic calculator
+# Gets 2 decimal numbers from user, then displays results of various operations on numbers
+
+define class Program1:
+	double variable X = user input
+	double variable Y = user input
+	print to console X + Y
+	print to console X * Y
+	print to console X / Y
+	print to console X ^ Y
+	print to console log Y (X)

@@ -1,0 +1,12 @@
+# Program 2: Binary calculator
+# Gets 2 binary numbers from user, then displays results of various operations on numbers
+
+define class Program2:
+	string variable X = user input
+	X = X converted to integer
+	string variable Y = user input
+	Y = Y converted to integer
+	print to console X + Y
+	print to console X - Y
+	print to console X * Y
+	print to console X / Y

@@ -1,0 +1,10 @@
+Welcome! This program takes two user-input decimal numbers and performs various operations on them, printing the results
+to the console.
+
+Please enter a value for variable X (in integer or decimal form): 16
+Please enter a value for variable Y (in integer or decimal form): 4
+X + Y = 20.00
+X × Y = 64.00
+X ÷ Y = 4.00
+X ^ Y = 65536.00
+Log Y (X) = 2.00
